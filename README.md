@@ -1,11 +1,10 @@
-# [DE-Kursname hier eintragen]
+# Java 14: Ein erster Blick
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Java 14: Ein erster Blick`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 ![COURSENAME][lil-thumbnail-url] 
 
-
-[COURSEDESCRIPTION]
+Java feierte im Jahr 2020 seinen 25. Geburtstag – und zählt immer noch zu den populärsten und wichtigsten Programmiersprachen. Da inzwischen neue Versionen im gefühlt halbjährlichen Turnus erscheinen, tut rechtzeitige Aufklärung Not. Ralph Steyer hat sich in den Versionen 14 bis 20 umgeschaut und fasst die wichtigsten Neuerungen in diesem Übersichtskurs zusammen. Sie lernen zum Beispiel relevante Syntaxneuerungen kennen, sehen, wie Sie TextBlocks und Records nutzen und erfahren auch mehr zu den Erweiterungen des instanceof-Operators oder zu versteckten Klassen. Auch auf die Rolle von Java 17 als LTS-Version wird ausführlich eingegangen. Im Kontext stehen auch immer ältere Versionen und ein Blick in die Zukunft von Java.
 
 ## Anleitung
 
@@ -27,8 +26,5 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
-
-[1]: # (End of DE-Instruction ###############################################################################################)
-	
+[lil-course-url]: https://www.linkedin.com/learning/java-14-20-neue-features
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2839004/2839004-1596785262810-16x9.jpg
